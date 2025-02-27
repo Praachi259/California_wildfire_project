@@ -25,18 +25,30 @@ This dataset provides a comprehensive look at the scale, damage, causes, and fin
 
 ## Insights :
 1.Severe Financial Losses: Wildfires have caused significant financial damage, with losses reaching into the billions.
+
 2.High Casualties: There are multiple fatalities and injuries across different incidents, highlighting the human cost.
+
 3.Main Causes: Lightning-Triggered Fires cause the highest financial losses.
+
 4.Variability in Damage: Some wildfires cause extensive destruction (thousands of homes destroyed), while others are less severe.
+
 5.Frequent Wildfire-Prone Locations: Counties like Sonoma and Shasta appear multiple times, suggesting they are high-risk areas.
 
 ## Recommendation :
 1.Early Detection Systems: Install weather-based lightning trackers to predict high-risk areas.
+
 2.Lightning Rods: Protect power lines and critical infrastructure from igniting.
+
 3.Public Awareness & Fire Safety Training: Educate communities on campfire safety, cigarette disposal, and equipment use.
+
 4.Stronger Law Enforcement: Increase penalties for arson and negligence.
+
 5.Surveillance & Drones: Deploy aerial monitoring to track potential fire hazards.
+
 6.Stricter Fire Regulations: Enhance policies for land management and wildfire mitigation.
+
 7.Lightning-Triggered Fires cause the highest financial losses—improving early detection and fuel management is key.
+
 8.Unknown Causes need better forensic tracking and surveillance.
+
 9.Human-Related Fires can be reduced through education, stronger laws, and infrastructure maintenance.
