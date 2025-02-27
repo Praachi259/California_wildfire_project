@@ -3,32 +3,40 @@ California has been grappling with increasingly severe wildfires, a trend influe
 
 ## Project Link
 
-[AirBnB Impact of Regulations](https://www.kaggle.com/code/naynishb/airbnb-project-1)
+[California_Wildfire_damage_analysis](https://www.kaggle.com/code/prachilidbe/wildfire-california-project)
 
-<img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
+<img src="https://i.abcnewsfe.com/a/2e365fca-ca19-43a0-82df-eef11020328e/calif-fire11-ap-ml-250110_1736513441802_hpMain.jpg" width=1000>
 
 ## Overview :
-This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
+The dataset contains 100 wildfire incidents in California, with 11 columns capturing key details such as:
+Date & Location: When and where the fire occurred.
+Area Burned (Acres): Size of the affected land.
+Damages: Number of homes, businesses, and vehicles destroyed.
+Casualties: Injuries and fatalities.
+Financial Loss: Estimated loss in millions of dollars.
+Cause: Factors contributing to the wildfire (e.g., Lightning, Human Activity, Unknown).
 
 ## Dataset :
-The dataset includes the following files:
-- listings.csv
-Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
-- reviews.csv
-Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
-- Dataset Source : [AirBnB Listing and Review Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
+The dataset includes the following file:
+- California Wildfire damage.csv
+The dataset contains 100 wildfire incidents in California
+This dataset provides a comprehensive look at the scale, damage, causes, and financial impact of wildfires across California. 
+- Dataset Source : [California WildFire Damage](https://www.kaggle.com/datasets/vivekattri/california-wildfire-damage-2014-feb2025)
 
 ## Insights :
-1. The Number of AirBnBs kept on increasing since the launch and prices kept on increasing too, due to initial traction and early adopters.
-2. After the startup is known to everyone and becomes a common utility, AirBnBs start increasing in numbers and prices also kept on decreasing.
-3. After regulation was announced around 2015 there was under confidence in the business, number of AirBnBs started decreasing and prices started increasing.
-4. Once the regulation is the new normal, during the year 2019 the number of AirBnBs have increased in number and prices kept decreasing due to more supply of them.
+1.Severe Financial Losses: Wildfires have caused significant financial damage, with losses reaching into the billions.
+2.High Casualties: There are multiple fatalities and injuries across different incidents, highlighting the human cost.
+3.Main Causes: Lightning-Triggered Fires cause the highest financial losses.
+4.Variability in Damage: Some wildfires cause extensive destruction (thousands of homes destroyed), while others are less severe.
+5.Frequent Wildfire-Prone Locations: Counties like Sonoma and Shasta appear multiple times, suggesting they are high-risk areas.
 
 ## Recommendation :
-1. Regulations in long term rentals can impact the business adversely, there might be customer and hosts churn due to uncertainty.
-2. Such regulations might add to AirBnBs losses which might be difficult to recover later.
-3. If the customer experience is going to get impacted due to this, it would lead to incorrect brand perception.
-4. It is recommended to watch out for any such regulations at other places and be prepared for it.
-5. AirBnB can replicate such regulations at other places.
-6. They can keep strict rules to onboard and release the hosts.
-7. They can limit the number of AirBnBs in a locality to ensure the public has enough rental options and the government doesn't step in.
+1.Early Detection Systems: Install weather-based lightning trackers to predict high-risk areas.
+2.Lightning Rods: Protect power lines and critical infrastructure from igniting.
+3.Public Awareness & Fire Safety Training: Educate communities on campfire safety, cigarette disposal, and equipment use.
+4.Stronger Law Enforcement: Increase penalties for arson and negligence.
+5.Surveillance & Drones: Deploy aerial monitoring to track potential fire hazards.
+6.Stricter Fire Regulations: Enhance policies for land management and wildfire mitigation.
+7.Lightning-Triggered Fires cause the highest financial losses—improving early detection and fuel management is key.
+8.Unknown Causes need better forensic tracking and surveillance.
+9.Human-Related Fires can be reduced through education, stronger laws, and infrastructure maintenance.
